@@ -15,3 +15,12 @@ Goofing off with a gameboy emulator
 ## Notes
 - Width: 160px
 - Height: 144px
+
+## To-Do List
+- Design street outside l'Ouvre
+- Design l'Ouvre
+- Design security guard characters
+- Design guest characters
+- Design a painting
+- Figure out how to get triggers to work
+- Figure out how to get guards and guests to interact
