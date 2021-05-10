@@ -6,7 +6,7 @@ Goofing off with a gameboy emulator
 [Click this link!](https://callum-mccracken.github.io/Take_the_Monet_and_Run/build/web/)
 
 ## How to Contribute
-- [Detailed Instructions Here](https://github.com/callum-mccracken/Take_the_Monet_and_Run/docs/contributing.md)
+- [Detailed Instructions Here](https://github.com/callum-mccracken/Take_the_Monet_and_Run/blob/master/docs/contributing.md)
 - Clone this repository
 - Download [GBStudio](https://chrismaltby.itch.io/gb-studio?download) (2.0.0 Beta 4)
 - Through GBStudio, open the `Take_the_Monet_and_Run.gbsproj` file from this repository
